@@ -1,4 +1,4 @@
-## 基于yolov5模型实现布万家自动化搬砖
+
 ### 项目根目录的demo_video.pm4为演示视频
 ![demo_video2gif](https://github.com/yosaa/dnfm-auto/blob/main/demo_video.gif)
 
